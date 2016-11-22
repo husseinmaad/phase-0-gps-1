@@ -1,1 +1,2 @@
-This is a different small conflict.
+small conflict!
+

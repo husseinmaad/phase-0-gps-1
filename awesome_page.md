@@ -1,5 +1,3 @@
- link (Links to an external site.) - Small conflict!
-
 **Something Bold**
 
 *Something Italics*

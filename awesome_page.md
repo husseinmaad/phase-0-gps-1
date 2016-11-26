@@ -1,4 +1,4 @@
- link (Links to an external site.)
+ link (Links to an external site.) - Small conflict!
 
 **Something Bold**
 

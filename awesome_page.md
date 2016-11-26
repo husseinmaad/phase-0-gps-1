@@ -1,7 +1,10 @@
-**This is bold text**
+ link (Links to an external site.)
 
-*italics show emphasis*
+**Something Bold**
 
-    Is this code block?
+*Something Italics*
 
-[This is a link](https://github.com/husseinmaad/phase-0-gps-1/pull/1)
+    Code block
+
+[LINK](https://creativecommons.org/)
+
